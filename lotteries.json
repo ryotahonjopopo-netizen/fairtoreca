@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-18T14:00:00+09:00",
+ "updatedAt": "2026-11-19T08:53:00+09:00",
  "sources": "入荷Now・カード抽選.com・トレカ抽選情報・各ショップ公式",
  "lotteries": [
   {
@@ -705,6 +705,80 @@
    "source": "https://www.cardchusen.com/dragonball",
    "end": "2026-12-06T21:00:00+09:00",
    "url": "https://x.com/Midori_SiraKawa/status/2119322523443818945"
+  },
+  {
+   "id": "pk-torepla55-hadou",
+   "game": "pokemon",
+   "product": "拡張パック ハドウシーカー",
+   "shop": "トレカプラザ55通販",
+   "method": "online",
+   "start": "2026-11-18T20:00:00+09:00",
+   "end": "2026-11-22T23:59:00+09:00",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSeNdQItGyUMs7dhwBfG_MXHz3ytkmwhOmev9BPbJHIjDAjnBQ/viewform",
+   "note": "Web抽選（Googleフォーム）",
+   "source": "https://nyuka-now.com/archives/2459",
+   "addedAt": "2026-11-19T08:53:00+09:00"
+  },
+  {
+   "id": "pk-hareruya2-hadou",
+   "game": "pokemon",
+   "product": "拡張パック ハドウシーカー",
+   "shop": "晴れる屋2 各店",
+   "method": "online",
+   "start": "2026-11-18T17:00:00+09:00",
+   "end": "2026-11-23T23:59:00+09:00",
+   "url": "https://livepocket.jp/e/wfku9",
+   "note": "Web抽選（LivePocket）",
+   "source": "https://nyuka-now.com/archives/2459",
+   "addedAt": "2026-11-19T08:53:00+09:00"
+  },
+  {
+   "id": "pk-joshin-web-1117",
+   "game": "pokemon",
+   "product": "ハドウシーカー・スタートデッキ100 バトルコレクション・MEGAドリームex ほか",
+   "shop": "Joshin webショップ",
+   "method": "online",
+   "start": "2026-11-17T13:00:00+09:00",
+   "url": "https://joshinweb.jp/",
+   "note": "対象会員へメールで応募URLを案内・締切は公式で確認",
+   "source": "https://nyuka-now.com/archives/2459",
+   "addedAt": "2026-11-19T08:53:00+09:00"
+  },
+  {
+   "id": "pk-7net-30th-premium",
+   "game": "pokemon",
+   "product": "30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキー",
+   "shop": "セブンネットショッピング",
+   "method": "online",
+   "start": "2026-11-19T17:00:00+09:00",
+   "url": "https://x.com/7_netshopping/status/2122570434755633464",
+   "note": "11/19 17時頃開始予定・締切は公式で確認",
+   "source": "https://nyuka-now.com/archives/2459",
+   "addedAt": "2026-11-19T08:53:00+09:00"
+  },
+  {
+   "id": "op-amazon-eb06",
+   "game": "onepiece",
+   "product": "エクストラブースター EAST BLUE【EB-06】",
+   "shop": "Amazon（招待リクエスト）",
+   "method": "invite",
+   "start": "2026-11-12T19:40:00+09:00",
+   "url": "https://www.amazon.co.jp/s?k=EB-06+ONE+PIECE",
+   "note": "商品ページの「招待をリクエスト」から。締切は非公表",
+   "source": "https://nyuka-now.com/archives/97393",
+   "addedAt": "2026-11-19T08:53:00+09:00"
+  },
+  {
+   "id": "op-amazon-st37",
+   "game": "onepiece",
+   "product": "スタートデッキ【ST-37】・【ST-38】",
+   "shop": "Amazon（招待リクエスト）",
+   "method": "invite",
+   "start": "2026-11-14T08:40:00+09:00",
+   "url": "https://www.amazon.co.jp/s?k=ST-37+ONE+PIECE",
+   "note": "商品ページの「招待をリクエスト」から。締切は非公表",
+   "source": "https://nyuka-now.com/archives/97393",
+   "addedAt": "2026-11-19T08:53:00+09:00"
   }
  ]
 }
