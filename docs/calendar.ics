@@ -5,495 +5,8 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:フェアトレカ 抽選締切
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
-UID:db-furuichi-tomakomai-end@fairtoreca.com
-DTSTAMP:20261104T235412Z
-DTSTART:20261101T142900Z
-DTEND:20261101T145900Z
-SUMMARY:締切 ふるいち 苫小牧桜木店 フュージョンワールド STORY BOOSTER 01
-DESCRIPTION:ふるいち 苫小牧桜木店／フュージョンワールド STORY BOOSTER 01\n応募: https://www.furu1.net/news/news_campaign/news_opensale_tomakomai\n一覧: https://fairtoreca.com
-URL:https://www.furu1.net/news/news_campaign/news_opensale_tomakomai
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT3H
-DESCRIPTION:抽選の締切が近いです
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:op-aeon-kyushu-op18-end@fairtoreca.com
-DTSTAMP:20261104T235412Z
-DTSTART:20261101T142900Z
-DTEND:20261101T145900Z
-SUMMARY:締切 イオン九州 ブースターパック 神の支配【OP-18】
-DESCRIPTION:イオン九州／ブースターパック 神の支配【OP-18】\n応募: https://www.aeon-kyushu.info/customer/information/archives/140\n一覧: https://fairtoreca.com
-URL:https://www.aeon-kyushu.info/customer/information/archives/140
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT3H
-DESCRIPTION:抽選の締切が近いです
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:pk-torecastation-end@fairtoreca.com
-DTSTAMP:20261104T235412Z
-DTSTART:20261101T142900Z
-DTEND:20261101T145900Z
-SUMMARY:締切 トレカステーション 各店 ストームエメラルダ・30th CELEBRATION カードセット9種
-DESCRIPTION:トレカステーション 各店／ストームエメラルダ・30th CELEBRATION カードセット9種\n応募: 店頭・SNS\n一覧: https://fairtoreca.com
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT3H
-DESCRIPTION:抽選の締切が近いです
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:op-amiami-op18-end@fairtoreca.com
-DTSTAMP:20261104T235412Z
-DTSTART:20261029T042900Z
-DTEND:20261029T045900Z
-SUMMARY:締切 あみあみ 神の支配【OP-18】・EB-03 Heroines Edition（再販）
-DESCRIPTION:あみあみ／神の支配【OP-18】・EB-03 Heroines Edition（再販）\n応募: https://form.amiami.jp/draw20261027\n一覧: https://fairtoreca.com
-URL:https://form.amiami.jp/draw20261027
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT3H
-DESCRIPTION:抽選の締切が近いです
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:op-shimamura-end@fairtoreca.com
-DTSTAMP:20261104T235412Z
-DTSTART:20261101T133000Z
-DTEND:20261101T140000Z
-SUMMARY:締切 しまむら（しまむらパーク） OP-13〜OP-16・EB-03・EB-05・プレミアムブースター THE BEST vol.2・ST-30
-DESCRIPTION:しまむら（しまむらパーク）／OP-13〜OP-16・EB-03・EB-05・プレミアムブースター THE BEST vol.2・ST-30\n応募: https://www.shop-shimamura.com/disp/itemlist/?pre_rsv_icon=1\n一覧: https://fairtoreca.com
-URL:https://www.shop-shimamura.com/disp/itemlist/?pre_rsv_icon=1
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT3H
-DESCRIPTION:抽選の締切が近いです
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:db-shimamura-end@fairtoreca.com
-DTSTAMP:20261104T235412Z
-DTSTART:20261101T133000Z
-DTEND:20261101T140000Z
-SUMMARY:締切 しまむら（しまむらパーク） フュージョンワールド STORY BOOSTER 01・DUAL EVOLUTION・BRIGHTNESS OF HOPE
-DESCRIPTION:しまむら（しまむらパーク）／フュージョンワールド STORY BOOSTER 01・DUAL EVOLUTION・BRIGHTNESS OF HOPE\n応募: https://www.shop-shimamura.com/disp/itemlist/?pre_rsv_icon=1\n一覧: https://fairtoreca.com
-URL:https://www.shop-shimamura.com/disp/itemlist/?pre_rsv_icon=1
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT3H
-DESCRIPTION:抽選の締切が近いです
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:pk-heiwado-end@fairtoreca.com
-DTSTAMP:20261104T235412Z
-DTSTART:20261101T142900Z
-DTEND:20261101T145900Z
-SUMMARY:締切 平和堂（HOPアプリ） MEGA スペシャルデッキセットMEGA・30th CELEBRATION BOX（再販）
-DESCRIPTION:平和堂（HOPアプリ）／MEGA スペシャルデッキセットMEGA・30th CELEBRATION BOX（再販）\n応募: https://www.heiwado.jp/service/hopapp\n一覧: https://fairtoreca.com
-URL:https://www.heiwado.jp/service/hopapp
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT3H
-DESCRIPTION:抽選の締切が近いです
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:pk-tcg193-end@fairtoreca.com
-DTSTAMP:20261104T235412Z
-DTSTART:20261104T142900Z
-DTEND:20261104T145900Z
-SUMMARY:締切 TCGショップ193（秋葉原・浜松・名駅・大須・日本橋・椿） 30th CELEBRATION カードセット 9種セット（10\,800円・1セットまで）
-DESCRIPTION:TCGショップ193（秋葉原・浜松・名駅・大須・日本橋・椿）／30th CELEBRATION カードセット 9種セット（10\,800円・1セットまで）\n応募: https://docs.google.com/forms/d/e/1FAIpQLSckLz6kpt0cOvnKUuW2zK4j8QaRgH-8WE7uGup8a5Fra6OCBQ/viewform\n一覧: https://fairtoreca.com
-URL:https://docs.google.com/forms/d/e/1FAIpQLSckLz6kpt0cOvnKUuW2zK4j8QaRgH-8WE7uGup8a5Fra6OCBQ/viewform
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT3H
-DESCRIPTION:抽選の締切が近いです
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:op-dorasuta-op17-end@fairtoreca.com
-DTSTAMP:20261104T235412Z
-DTSTART:20261029T142900Z
-DTEND:20261029T145900Z
-SUMMARY:締切 ドラゴンスター 通販 ブースターパック 世界最強の戦士【OP-17】
-DESCRIPTION:ドラゴンスター 通販／ブースターパック 世界最強の戦士【OP-17】\n応募: https://dorasuta.membercard.jp/lottery\n一覧: https://fairtoreca.com
-URL:https://dorasuta.membercard.jp/lottery
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT3H
-DESCRIPTION:抽選の締切が近いです
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:pk-otakarasouko-end@fairtoreca.com
-DTSTAMP:20261104T235412Z
-DTSTART:20261101T141500Z
-DTEND:20261101T144500Z
-SUMMARY:締切 お宝創庫・おじゃま館・メディオ！・プレイズ（一部店舗） ストームエメラルダ・30th CELEBRATION BOX（再販）
-DESCRIPTION:お宝創庫・おじゃま館・メディオ！・プレイズ（一部店舗）／ストームエメラルダ・30th CELEBRATION BOX（再販）\n応募: https://www.otakarasouko.com/information/106230535/\n一覧: https://fairtoreca.com
-URL:https://www.otakarasouko.com/information/106230535/
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT3H
-DESCRIPTION:抽選の締切が近いです
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:pk-pokecen-hadou2-end@fairtoreca.com
-DTSTAMP:20261104T235412Z
-DTSTART:20261110T072900Z
-DTEND:20261110T075900Z
-SUMMARY:締切 ポケモンセンターオンライン 拡張パック ハドウシーカー（追加抽選）
-DESCRIPTION:ポケモンセンターオンライン／拡張パック ハドウシーカー（追加抽選）\n応募: https://www.pokemoncenter-online.com/news/?id=20261030\n一覧: https://fairtoreca.com
-URL:https://www.pokemoncenter-online.com/news/?id=20261030
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT3H
-DESCRIPTION:抽選の締切が近いです
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:pk-amiami-hadou-end@fairtoreca.com
-DTSTAMP:20261104T235412Z
-DTSTART:20261104T042900Z
-DTEND:20261104T045900Z
-SUMMARY:締切 あみあみ ハドウシーカー BOX・MEGA スペシャルデッキセットMEGA
-DESCRIPTION:あみあみ／ハドウシーカー BOX・MEGA スペシャルデッキセットMEGA\n応募: https://form.amiami.jp/draw20261030\n一覧: https://fairtoreca.com
-URL:https://form.amiami.jp/draw20261030
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT3H
-DESCRIPTION:抽選の締切が近いです
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:pk-geo-mega-end@fairtoreca.com
-DTSTAMP:20261104T235412Z
-DTSTART:20261105T082900Z
-DTEND:20261105T085900Z
-SUMMARY:締切 ゲオ MEGA スペシャルデッキセットMEGA
-DESCRIPTION:ゲオ／MEGA スペシャルデッキセットMEGA\n応募: https://geo-online.co.jp/news/787\n一覧: https://fairtoreca.com
-URL:https://geo-online.co.jp/news/787
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT3H
-DESCRIPTION:抽選の締切が近いです
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:pk-kojima-mega-end@fairtoreca.com
-DTSTAMP:20261104T235412Z
-DTSTART:20261106T142900Z
-DTEND:20261106T145900Z
-SUMMARY:締切 コジマ MEGA スペシャルデッキセットMEGA
-DESCRIPTION:コジマ／MEGA スペシャルデッキセットMEGA\n応募: https://www.kojima.net/shop/app/kojima_appli.html\n一覧: https://fairtoreca.com
-URL:https://www.kojima.net/shop/app/kojima_appli.html
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT3H
-DESCRIPTION:抽選の締切が近いです
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:pk-plaza55-30th-2-end@fairtoreca.com
-DTSTAMP:20261104T235412Z
-DTSTART:20261106T142900Z
-DTEND:20261106T145900Z
-SUMMARY:締切 トレカプラザ55 通販 30th CELEBRATION 関連商品
-DESCRIPTION:トレカプラザ55 通販／30th CELEBRATION 関連商品\n応募: https://docs.google.com/forms/d/e/1FAIpQLScDZdtbNfiI9DRsn2S5TJxR4Hez0Xhw8AHVAzd8uaGhrI-XeQ/viewform\n一覧: https://fairtoreca.com
-URL:https://docs.google.com/forms/d/e/1FAIpQLScDZdtbNfiI9DRsn2S5TJxR4Hez0Xhw8AHVAzd8uaGhrI-XeQ/viewform
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT3H
-DESCRIPTION:抽選の締切が近いです
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:pk-fullcomp-30th-end@fairtoreca.com
-DTSTAMP:20261104T235412Z
-DTSTART:20261101T142900Z
-DTEND:20261101T145900Z
-SUMMARY:締切 フルコンプ（一部店舗） 30th CELEBRATION・ストームエメラルダ
-DESCRIPTION:フルコンプ（一部店舗）／30th CELEBRATION・ストームエメラルダ\n応募: https://livepocket.jp/e/x425p\n一覧: https://fairtoreca.com
-URL:https://livepocket.jp/e/x425p
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT3H
-DESCRIPTION:抽選の締切が近いです
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:pk-lounge-shibuya-end@fairtoreca.com
-DTSTAMP:20261104T235412Z
-DTSTART:20261101T142900Z
-DTEND:20261101T145900Z
-SUMMARY:締切 ポケモンカードラウンジ渋谷店 30th CELEBRATION BOX
-DESCRIPTION:ポケモンカードラウンジ渋谷店／30th CELEBRATION BOX\n応募: https://cloud-pass.jp/pr/885c68fbf0f42f017ae01152515921ea11242b65f9fe5434877f6fb895b9eb37\n一覧: https://fairtoreca.com
-URL:https://cloud-pass.jp/pr/885c68fbf0f42f017ae01152515921ea11242b65f9fe5434877f6fb895b9eb37
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT3H
-DESCRIPTION:抽選の締切が近いです
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:pk-kiddyland-mega-end@fairtoreca.com
-DTSTAMP:20261104T235412Z
-DTSTART:20261104T142900Z
-DTEND:20261104T145900Z
-SUMMARY:締切 キデイランド各店 MEGA スペシャルデッキセットMEGA
-DESCRIPTION:キデイランド各店／MEGA スペシャルデッキセットMEGA\n応募: https://livepocket.jp/p/hpmzs\n一覧: https://fairtoreca.com
-URL:https://livepocket.jp/p/hpmzs
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT3H
-DESCRIPTION:抽選の締切が近いです
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:op-pb-eb05-end@fairtoreca.com
-DTSTAMP:20261104T235412Z
-DTSTART:20261105T133000Z
-DTEND:20261105T140000Z
-SUMMARY:締切 プレミアムバンダイ EB-05 Heroines Edition vol.2
-DESCRIPTION:プレミアムバンダイ／EB-05 Heroines Edition vol.2\n応募: https://p-bandai.jp/item/item-1000260602/\n一覧: https://fairtoreca.com
-URL:https://p-bandai.jp/item/item-1000260602/
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT3H
-DESCRIPTION:抽選の締切が近いです
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:op-geo-op18-end@fairtoreca.com
-DTSTAMP:20261104T235412Z
-DTSTART:20261105T082900Z
-DTEND:20261105T085900Z
-SUMMARY:締切 ゲオ 神の支配【OP-18】
-DESCRIPTION:ゲオ／神の支配【OP-18】\n応募: https://geo-online.co.jp/news/788\n一覧: https://fairtoreca.com
-URL:https://geo-online.co.jp/news/788
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT3H
-DESCRIPTION:抽選の締切が近いです
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:op-kidsrepublic-op18-end@fairtoreca.com
-DTSTAMP:20261104T235412Z
-DTSTART:20261105T102900Z
-DTEND:20261105T105900Z
-SUMMARY:締切 キッズリパブリック 神の支配【OP-18】
-DESCRIPTION:キッズリパブリック／神の支配【OP-18】\n応募: https://www.kidsrepublic.jp/campaign/campaign_detail/20261121onepiececardgame\n一覧: https://fairtoreca.com
-URL:https://www.kidsrepublic.jp/campaign/campaign_detail/20261121onepiececardgame
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT3H
-DESCRIPTION:抽選の締切が近いです
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:op-plaza55-op17-end@fairtoreca.com
-DTSTAMP:20261104T235412Z
-DTSTART:20261106T142900Z
-DTEND:20261106T145900Z
-SUMMARY:締切 トレカプラザ55 通販 世界最強の戦士【OP-17】
-DESCRIPTION:トレカプラザ55 通販／世界最強の戦士【OP-17】\n応募: https://docs.google.com/forms/d/e/1FAIpQLSf-D1Frcyt_6fF0Nyjgm_CTBAsmsuIEjnl9fUtaeseonqeTHg/viewform\n一覧: https://fairtoreca.com
-URL:https://docs.google.com/forms/d/e/1FAIpQLSf-D1Frcyt_6fF0Nyjgm_CTBAsmsuIEjnl9fUtaeseonqeTHg/viewform
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT3H
-DESCRIPTION:抽選の締切が近いです
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:op-ryuseinopao-op18-end@fairtoreca.com
-DTSTAMP:20261104T235412Z
-DTSTART:20261101T142900Z
-DTEND:20261101T145900Z
-SUMMARY:締切 竜星のPAO 神の支配【OP-18】
-DESCRIPTION:竜星のPAO／神の支配【OP-18】\n応募: https://livepocket.jp/e/6t8b2y\n一覧: https://fairtoreca.com
-URL:https://livepocket.jp/e/6t8b2y
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT3H
-DESCRIPTION:抽選の締切が近いです
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:op-wondergoo-precious-end@fairtoreca.com
-DTSTAMP:20261104T235412Z
-DTSTART:20261101T112900Z
-DTEND:20261101T115900Z
-SUMMARY:締切 WonderGOO・新星堂 ONE PIECE HEROINES PRECIOUS BOX
-DESCRIPTION:WonderGOO・新星堂／ONE PIECE HEROINES PRECIOUS BOX\n応募: 店頭・SNS\n一覧: https://fairtoreca.com
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT3H
-DESCRIPTION:抽選の締切が近いです
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:db-cardelia-ikebukuro-end@fairtoreca.com
-DTSTAMP:20261104T235412Z
-DTSTART:20261103T142900Z
-DTEND:20261103T145900Z
-SUMMARY:締切 カーデリア池袋店 フュージョンワールド STORY BOOSTER 01・CROSS FORCE
-DESCRIPTION:カーデリア池袋店／フュージョンワールド STORY BOOSTER 01・CROSS FORCE\n応募: https://docs.google.com/forms/d/e/1FAIpQLSeua7TaUL-9ArQ9K5AZyfvVc50imujhCSg7JjURDwH1iMrYwg/viewform\n一覧: https://fairtoreca.com
-URL:https://docs.google.com/forms/d/e/1FAIpQLSeua7TaUL-9ArQ9K5AZyfvVc50imujhCSg7JjURDwH1iMrYwg/viewform
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT3H
-DESCRIPTION:抽選の締切が近いです
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:pk-aeon-kyushu-hadou-end@fairtoreca.com
-DTSTAMP:20261104T235412Z
-DTSTART:20261108T142900Z
-DTEND:20261108T145900Z
-SUMMARY:締切 イオン九州 拡張パック ハドウシーカー
-DESCRIPTION:イオン九州／拡張パック ハドウシーカー\n応募: https://www.aeon-kyushu.info/customer/information/archives/145\n一覧: https://fairtoreca.com
-URL:https://www.aeon-kyushu.info/customer/information/archives/145
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT3H
-DESCRIPTION:抽選の締切が近いです
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:op-joshin-web-end@fairtoreca.com
-DTSTAMP:20261104T235412Z
-DTSTART:20261102T002900Z
-DTEND:20261102T005900Z
-SUMMARY:締切 Joshin webショップ EB-05 Heroines Edition vol.2・EB-03・世界最強の戦士【OP-17】
-DESCRIPTION:Joshin webショップ／EB-05 Heroines Edition vol.2・EB-03・世界最強の戦士【OP-17】\n応募: https://joshinweb.jp/\n一覧: https://fairtoreca.com
-URL:https://joshinweb.jp/
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT3H
-DESCRIPTION:抽選の締切が近いです
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:pk-torecaace-end@fairtoreca.com
-DTSTAMP:20261104T235412Z
-DTSTART:20261103T142900Z
-DTEND:20261103T145900Z
-SUMMARY:締切 トレカエース各店 30th CELEBRATION BOX・メガブレイブ・メガシンフォニア
-DESCRIPTION:トレカエース各店／30th CELEBRATION BOX・メガブレイブ・メガシンフォニア\n応募: https://www.toreca-ace.com/blog/shop/\n一覧: https://fairtoreca.com
-URL:https://www.toreca-ace.com/blog/shop/
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT3H
-DESCRIPTION:抽選の締切が近いです
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:pk-seagull-end@fairtoreca.com
-DTSTAMP:20261104T235412Z
-DTSTART:20261103T103000Z
-DTEND:20261103T110000Z
-SUMMARY:締切 シーガル各店 30th CELEBRATION BOX・ストームエメラルダ
-DESCRIPTION:シーガル各店／30th CELEBRATION BOX・ストームエメラルダ\n応募: https://seagullonline.jp/gullmoba/\n一覧: https://fairtoreca.com
-URL:https://seagullonline.jp/gullmoba/
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT3H
-DESCRIPTION:抽選の締切が近いです
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:op-aeon-hokkaido-op18-end@fairtoreca.com
-DTSTAMP:20261104T235412Z
-DTSTART:20261103T142900Z
-DTEND:20261103T145900Z
-SUMMARY:締切 イオン北海道 ブースターパック 神の支配【OP-18】
-DESCRIPTION:イオン北海道／ブースターパック 神の支配【OP-18】\n応募: https://www.aeon-hokkaido.jp/iaeonapp/campaign/2611_optcg/\n一覧: https://fairtoreca.com
-URL:https://www.aeon-hokkaido.jp/iaeonapp/campaign/2611_optcg/
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT3H
-DESCRIPTION:抽選の締切が近いです
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:pk-biccamera-ikebukuro-30th-end@fairtoreca.com
-DTSTAMP:20261104T235412Z
-DTSTART:20261103T103000Z
-DTEND:20261103T110000Z
-SUMMARY:締切 ビックカメラ池袋本店 30th CELEBRATION BOX
-DESCRIPTION:ビックカメラ池袋本店／30th CELEBRATION BOX\n応募: https://www.biccamera.com/bc/i/shop/shoplist/shop001.jsp\n一覧: https://fairtoreca.com
-URL:https://www.biccamera.com/bc/i/shop/shoplist/shop001.jsp
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT3H
-DESCRIPTION:抽選の締切が近いです
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:pk-dorasuta-mega-end@fairtoreca.com
-DTSTAMP:20261104T235412Z
-DTSTART:20261105T142900Z
-DTEND:20261105T145900Z
-SUMMARY:締切 ドラゴンスター各店 MEGA スペシャルデッキセットMEGA
-DESCRIPTION:ドラゴンスター各店／MEGA スペシャルデッキセットMEGA\n応募: https://dorasuta.membercard.jp/lottery\n一覧: https://fairtoreca.com
-URL:https://dorasuta.membercard.jp/lottery
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT3H
-DESCRIPTION:抽選の締切が近いです
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:pk-torecastation-mega-end@fairtoreca.com
-DTSTAMP:20261104T235412Z
-DTSTART:20261108T142900Z
-DTEND:20261108T145900Z
-SUMMARY:締切 トレカステーション 各店 30th CELEBRATION BOX・MEGA スペシャルデッキセットMEGA
-DESCRIPTION:トレカステーション 各店／30th CELEBRATION BOX・MEGA スペシャルデッキセットMEGA\n応募: 店頭・SNS\n一覧: https://fairtoreca.com
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT3H
-DESCRIPTION:抽選の締切が近いです
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:db-tsutaya-morimachi-end@fairtoreca.com
-DTSTAMP:20261104T235412Z
-DTSTART:20261106T142900Z
-DTEND:20261106T145900Z
-SUMMARY:締切 TSUTAYA森町店 トレカコーナー REACH THE GOD
-DESCRIPTION:TSUTAYA森町店 トレカコーナー／REACH THE GOD\n応募: https://livepocket.jp/e/chm06\n一覧: https://fairtoreca.com
-URL:https://livepocket.jp/e/chm06
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT3H
-DESCRIPTION:抽選の締切が近いです
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:pk-cardlabo-mega-end@fairtoreca.com
-DTSTAMP:20261104T235412Z
-DTSTART:20261106T142900Z
-DTEND:20261106T145900Z
-SUMMARY:締切 カードラボ（一部店舗） MEGA スペシャルデッキセットMEGA
-DESCRIPTION:カードラボ（一部店舗）／MEGA スペシャルデッキセットMEGA\n応募: https://www.c-labo.jp/blog/\n一覧: https://fairtoreca.com
-URL:https://www.c-labo.jp/blog/
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT3H
-DESCRIPTION:抽選の締切が近いです
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:pk-cardlabo-hadou-end@fairtoreca.com
-DTSTAMP:20261104T235412Z
+DTSTAMP:20261118T043655Z
 DTSTART:20261119T142900Z
 DTEND:20261119T145900Z
 SUMMARY:締切 カードラボ（一部店舗） 拡張パック ハドウシーカー
@@ -506,133 +19,8 @@ DESCRIPTION:抽選の締切が近いです
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:pk-dorasuta-tsuhan-mega-end@fairtoreca.com
-DTSTAMP:20261104T235412Z
-DTSTART:20261104T142900Z
-DTEND:20261104T145900Z
-SUMMARY:締切 ドラゴンスター通販 MEGA スペシャルデッキセットMEGA
-DESCRIPTION:ドラゴンスター通販／MEGA スペシャルデッキセットMEGA\n応募: https://dorasuta.membercard.jp/lottery\n一覧: https://fairtoreca.com
-URL:https://dorasuta.membercard.jp/lottery
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT3H
-DESCRIPTION:抽選の締切が近いです
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:pk-shimamura-1103-end@fairtoreca.com
-DTSTAMP:20261104T235412Z
-DTSTART:20261108T133000Z
-DTEND:20261108T140000Z
-SUMMARY:締切 しまむら（しまむらパーク） 30th CELEBRATION BOX・ストームエメラルダ・メガブレイブ・メガシンフォニア
-DESCRIPTION:しまむら（しまむらパーク）／30th CELEBRATION BOX・ストームエメラルダ・メガブレイブ・メガシンフォニア\n応募: https://www.shop-shimamura.com/disp/itemlist/?pre_rsv_icon=1\n一覧: https://fairtoreca.com
-URL:https://www.shop-shimamura.com/disp/itemlist/?pre_rsv_icon=1
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT3H
-DESCRIPTION:抽選の締切が近いです
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:pk-yamada-hadou-end@fairtoreca.com
-DTSTAMP:20261104T235412Z
-DTSTART:20261104T142900Z
-DTEND:20261104T145900Z
-SUMMARY:締切 ヤマダデンキ 拡張パック ハドウシーカー
-DESCRIPTION:ヤマダデンキ／拡張パック ハドウシーカー\n応募: https://www.yamada-denki.jp/service/pointservice/digital-kaiin.html\n一覧: https://fairtoreca.com
-URL:https://www.yamada-denki.jp/service/pointservice/digital-kaiin.html
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT3H
-DESCRIPTION:抽選の締切が近いです
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:op-jumpshop-op18-end@fairtoreca.com
-DTSTAMP:20261104T235412Z
-DTSTART:20261107T142900Z
-DTEND:20261107T145900Z
-SUMMARY:締切 JUMP SHOP各店 ブースターパック 神の支配【OP-18】
-DESCRIPTION:JUMP SHOP各店／ブースターパック 神の支配【OP-18】\n応募: https://jumpshop-benelic.com/pages/about-enter-shop\n一覧: https://fairtoreca.com
-URL:https://jumpshop-benelic.com/pages/about-enter-shop
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT3H
-DESCRIPTION:抽選の締切が近いです
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:op-shimamura-eb05-end@fairtoreca.com
-DTSTAMP:20261104T235412Z
-DTSTART:20261108T133000Z
-DTEND:20261108T140000Z
-SUMMARY:締切 しまむら（しまむらパーク） EB-05 Heroines Edition vol.2
-DESCRIPTION:しまむら（しまむらパーク）／EB-05 Heroines Edition vol.2\n応募: https://www.shop-shimamura.com/item/0162100011072/?cl=210\n一覧: https://fairtoreca.com
-URL:https://www.shop-shimamura.com/item/0162100011072/?cl=210
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT3H
-DESCRIPTION:抽選の締切が近いです
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:op-hobbystation-op18-end@fairtoreca.com
-DTSTAMP:20261104T235412Z
-DTSTART:20261105T142900Z
-DTEND:20261105T145900Z
-SUMMARY:締切 ホビーステーション ブースターパック 神の支配【OP-18】
-DESCRIPTION:ホビーステーション／ブースターパック 神の支配【OP-18】\n応募: https://livepocket.jp/e/ky8qv\n一覧: https://fairtoreca.com
-URL:https://livepocket.jp/e/ky8qv
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT3H
-DESCRIPTION:抽選の締切が近いです
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:db-champion-osu-end@fairtoreca.com
-DTSTAMP:20261104T235412Z
-DTSTART:20261108T142900Z
-DTEND:20261108T145900Z
-SUMMARY:締切 トレカチャンピオン大須店 フュージョンワールド STORY BOOSTER 01・DUAL EVOLUTION
-DESCRIPTION:トレカチャンピオン大須店／フュージョンワールド STORY BOOSTER 01・DUAL EVOLUTION\n応募: https://x.com/Champion_osu/status/2116315419539833263\n一覧: https://fairtoreca.com
-URL:https://x.com/Champion_osu/status/2116315419539833263
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT3H
-DESCRIPTION:抽選の締切が近いです
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:pk-yamashiroya-30th-end@fairtoreca.com
-DTSTAMP:20261104T235412Z
-DTSTART:20261106T120000Z
-DTEND:20261106T123000Z
-SUMMARY:締切 ヤマシロヤ オンラインショップ 30th CELEBRATION カードセット各種
-DESCRIPTION:ヤマシロヤ オンラインショップ／30th CELEBRATION カードセット各種\n応募: https://docs.google.com/forms/d/e/1FAIpQLSd6O9PhrqOHX4xxcRV4APYy_B_0OyCAW_ZkTa-Rp7htUleUjQ/viewform\n一覧: https://fairtoreca.com
-URL:https://docs.google.com/forms/d/e/1FAIpQLSd6O9PhrqOHX4xxcRV4APYy_B_0OyCAW_ZkTa-Rp7htUleUjQ/viewform
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT3H
-DESCRIPTION:抽選の締切が近いです
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:pk-biccamera-hiroshima-30th-end@fairtoreca.com
-DTSTAMP:20261104T235412Z
-DTSTART:20261107T142900Z
-DTEND:20261107T145900Z
-SUMMARY:締切 ビックカメラ広島駅前店 30th CELEBRATION BOX
-DESCRIPTION:ビックカメラ広島駅前店／30th CELEBRATION BOX\n応募: 店頭・SNS\n一覧: https://fairtoreca.com
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT3H
-DESCRIPTION:抽選の締切が近いです
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:pk-sanyodo-hadou-end@fairtoreca.com
-DTSTAMP:20261104T235412Z
+DTSTAMP:20261118T043655Z
 DTSTART:20261115T142900Z
 DTEND:20261115T145900Z
 SUMMARY:締切 三洋堂書店（トレカ館・ホビープラネット） 拡張パック ハドウシーカー
@@ -645,49 +33,8 @@ DESCRIPTION:抽選の締切が近いです
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:pk-ryunoshippo-mega-end@fairtoreca.com
-DTSTAMP:20261104T235412Z
-DTSTART:20261106T142900Z
-DTEND:20261106T145900Z
-SUMMARY:締切 竜のしっぽ各店 MEGA スペシャルデッキセットMEGA
-DESCRIPTION:竜のしっぽ各店／MEGA スペシャルデッキセットMEGA\n応募: https://ryuunoshippo.membercard.jp/\n一覧: https://fairtoreca.com
-URL:https://ryuunoshippo.membercard.jp/
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT3H
-DESCRIPTION:抽選の締切が近いです
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:pk-famima-hadou-end@fairtoreca.com
-DTSTAMP:20261104T235412Z
-DTSTART:20261109T142900Z
-DTEND:20261109T145900Z
-SUMMARY:締切 ファミマオンライン 拡張パック ハドウシーカー
-DESCRIPTION:ファミマオンライン／拡張パック ハドウシーカー\n応募: https://famima-online.family.co.jp/\n一覧: https://fairtoreca.com
-URL:https://famima-online.family.co.jp/
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT3H
-DESCRIPTION:抽選の締切が近いです
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:pk-itoyokado-hadou-end@fairtoreca.com
-DTSTAMP:20261104T235412Z
-DTSTART:20261108T142900Z
-DTEND:20261108T145900Z
-SUMMARY:締切 イトーヨーカドー・アリオ（一部店舗） 拡張パック ハドウシーカー
-DESCRIPTION:イトーヨーカドー・アリオ（一部店舗）／拡張パック ハドウシーカー\n応募: 店頭・SNS\n一覧: https://fairtoreca.com
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT3H
-DESCRIPTION:抽選の締切が近いです
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:pk-donki-hadou-end@fairtoreca.com
-DTSTAMP:20261104T235412Z
+DTSTAMP:20261118T043655Z
 DTSTART:20261115T142900Z
 DTEND:20261115T145900Z
 SUMMARY:締切 ドン・キホーテ（majicaアプリ） 拡張パック ハドウシーカー
@@ -700,13 +47,498 @@ DESCRIPTION:抽選の締切が近いです
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:op-fullcomp-op18-end@fairtoreca.com
-DTSTAMP:20261104T235412Z
-DTSTART:20261108T022900Z
-DTEND:20261108T025900Z
-SUMMARY:締切 フルコンプ（一部店舗） ブースターパック 神の支配【OP-18】
-DESCRIPTION:フルコンプ（一部店舗）／ブースターパック 神の支配【OP-18】\n応募: https://livepocket.jp/e/2nyas\n一覧: https://fairtoreca.com
-URL:https://livepocket.jp/e/2nyas
+UID:pk-furuichi-hadou-end@fairtoreca.com
+DTSTAMP:20261118T043655Z
+DTSTART:20261122T133000Z
+DTEND:20261122T140000Z
+SUMMARY:締切 古本市場 拡張パック ハドウシーカー
+DESCRIPTION:古本市場／拡張パック ハドウシーカー\n応募: https://www.furu1.net/news/news_information/pkop20261127sl\n一覧: https://fairtoreca.com
+URL:https://www.furu1.net/news/news_information/pkop20261127sl
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT3H
+DESCRIPTION:抽選の締切が近いです
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pk-plant-hadou-end@fairtoreca.com
+DTSTAMP:20261118T043655Z
+DTSTART:20261119T142900Z
+DTEND:20261119T145900Z
+SUMMARY:締切 PLANT（一部店舗） 拡張パック ハドウシーカー
+DESCRIPTION:PLANT（一部店舗）／拡張パック ハドウシーカー\n応募: https://www.plant-co.jp/campaign/detail/1634.html?campaignNo=1634\n一覧: https://fairtoreca.com
+URL:https://www.plant-co.jp/campaign/detail/1634.html?campaignNo=1634
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT3H
+DESCRIPTION:抽選の締切が近いです
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pk-shimamura-1117-end@fairtoreca.com
+DTSTAMP:20261118T043655Z
+DTSTART:20261122T133000Z
+DTEND:20261122T140000Z
+SUMMARY:締切 しまむらパーク ハドウシーカー・30th CELEBRATION BOX／カードセット・ストームエメラルダ・スターターセットex・スペシャルデッキセットMEGA
+DESCRIPTION:しまむらパーク／ハドウシーカー・30th CELEBRATION BOX／カードセット・ストームエメラルダ・スターターセットex・スペシャルデッキセットMEGA\n応募: https://www.shop-shimamura.com/disp/itemlist/?pre_rsv_icon=1\n一覧: https://fairtoreca.com
+URL:https://www.shop-shimamura.com/disp/itemlist/?pre_rsv_icon=1
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT3H
+DESCRIPTION:抽選の締切が近いです
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pk-corocoro-100-end@fairtoreca.com
+DTSTAMP:20261118T043655Z
+DTSTART:20261123T142900Z
+DTEND:20261123T145900Z
+SUMMARY:締切 コロコロプレミア スタートデッキ100 バトルコレクション
+DESCRIPTION:コロコロプレミア／スタートデッキ100 バトルコレクション\n応募: https://lifetunes-mall.jp/shop/form/form.aspx?questionnaire=c3060_pokemoncard100_lot\n一覧: https://fairtoreca.com
+URL:https://lifetunes-mall.jp/shop/form/form.aspx?questionnaire=c3060_pokemoncard100_lot
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT3H
+DESCRIPTION:抽選の締切が近いです
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pk-dorasuta-hadou-1116-end@fairtoreca.com
+DTSTAMP:20261118T043655Z
+DTSTART:20261118T142900Z
+DTEND:20261118T145900Z
+SUMMARY:締切 ドラゴンスター通販 拡張パック ハドウシーカー
+DESCRIPTION:ドラゴンスター通販／拡張パック ハドウシーカー\n応募: https://dorasuta.membercard.jp/lottery\n一覧: https://fairtoreca.com
+URL:https://dorasuta.membercard.jp/lottery
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT3H
+DESCRIPTION:抽選の締切が近いです
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pk-torekaste-hadou-end@fairtoreca.com
+DTSTAMP:20261118T043655Z
+DTSTART:20261122T142900Z
+DTEND:20261122T145900Z
+SUMMARY:締切 トレカステーション各店 拡張パック ハドウシーカー
+DESCRIPTION:トレカステーション各店／拡張パック ハドウシーカー\n応募: 店頭・SNS\n一覧: https://fairtoreca.com
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT3H
+DESCRIPTION:抽選の締切が近いです
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pk-hobbyoff-hadou-end@fairtoreca.com
+DTSTAMP:20261118T043655Z
+DTSTART:20261122T100000Z
+DTEND:20261122T103000Z
+SUMMARY:締切 ホビーオフ（一部店舗） 拡張パック ハドウシーカー
+DESCRIPTION:ホビーオフ（一部店舗）／拡張パック ハドウシーカー\n応募: https://x.com/Hbkokubotoreca/status/2122151320077676920\n一覧: https://fairtoreca.com
+URL:https://x.com/Hbkokubotoreca/status/2122151320077676920
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT3H
+DESCRIPTION:抽選の締切が近いです
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pk-champion-hadou-end@fairtoreca.com
+DTSTAMP:20261118T043655Z
+DTSTART:20261122T142900Z
+DTEND:20261122T145900Z
+SUMMARY:締切 トレカチャンピオン各店 拡張パック ハドウシーカー
+DESCRIPTION:トレカチャンピオン各店／拡張パック ハドウシーカー\n応募: 店頭・SNS\n一覧: https://fairtoreca.com
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT3H
+DESCRIPTION:抽選の締切が近いです
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pk-bigextra-hadou-end@fairtoreca.com
+DTSTAMP:20261118T043655Z
+DTSTART:20261118T142900Z
+DTEND:20261118T145900Z
+SUMMARY:締切 ザ・ビッグエクストラ（一部店舗） 拡張パック ハドウシーカー
+DESCRIPTION:ザ・ビッグエクストラ（一部店舗）／拡張パック ハドウシーカー\n応募: 店頭・SNS\n一覧: https://fairtoreca.com
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT3H
+DESCRIPTION:抽選の締切が近いです
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pk-ryunoshippo-hadou-end@fairtoreca.com
+DTSTAMP:20261118T043655Z
+DTSTART:20261120T142900Z
+DTEND:20261120T145900Z
+SUMMARY:締切 竜のしっぽ各店 ハドウシーカー・30th CELEBRATION カードセット
+DESCRIPTION:竜のしっぽ各店／ハドウシーカー・30th CELEBRATION カードセット\n応募: https://ryuunoshippo.membercard.jp/\n一覧: https://fairtoreca.com
+URL:https://ryuunoshippo.membercard.jp/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT3H
+DESCRIPTION:抽選の締切が近いです
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pk-yellowsub-30th-end@fairtoreca.com
+DTSTAMP:20261118T043655Z
+DTSTART:20261118T103000Z
+DTEND:20261118T110000Z
+SUMMARY:締切 イエローサブマリン各店 30th CELEBRATION カードセット・ストームエメラルダ
+DESCRIPTION:イエローサブマリン各店／30th CELEBRATION カードセット・ストームエメラルダ\n応募: https://x.com/YS_INFO/\n一覧: https://fairtoreca.com
+URL:https://x.com/YS_INFO/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT3H
+DESCRIPTION:抽選の締切が近いです
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pk-kojima-hadou-end@fairtoreca.com
+DTSTAMP:20261118T043655Z
+DTSTART:20261120T142900Z
+DTEND:20261120T145900Z
+SUMMARY:締切 コジマ（アプリ） 拡張パック ハドウシーカー
+DESCRIPTION:コジマ（アプリ）／拡張パック ハドウシーカー\n応募: https://www.kojima.net/shop/app/kojima_appli.html\n一覧: https://fairtoreca.com
+URL:https://www.kojima.net/shop/app/kojima_appli.html
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT3H
+DESCRIPTION:抽選の締切が近いです
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pk-tcg193-hadou-end@fairtoreca.com
+DTSTAMP:20261118T043655Z
+DTSTART:20261119T142900Z
+DTEND:20261119T145900Z
+SUMMARY:締切 TCGショップ193各店 拡張パック ハドウシーカー
+DESCRIPTION:TCGショップ193各店／拡張パック ハドウシーカー\n応募: https://docs.google.com/forms/d/e/1FAIpQLScyVCz7XSzFQ8L4EWUXfMzbnjYKd2P3TCOXoAjrp3Wy0Md2ag/viewform\n一覧: https://fairtoreca.com
+URL:https://docs.google.com/forms/d/e/1FAIpQLScyVCz7XSzFQ8L4EWUXfMzbnjYKd2P3TCOXoAjrp3Wy0Md2ag/viewform
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT3H
+DESCRIPTION:抽選の締切が近いです
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pk-kiddyland-hadou-end@fairtoreca.com
+DTSTAMP:20261118T043655Z
+DTSTART:20261118T142900Z
+DTEND:20261118T145900Z
+SUMMARY:締切 キデイランド各店 拡張パック ハドウシーカー
+DESCRIPTION:キデイランド各店／拡張パック ハドウシーカー\n応募: https://livepocket.jp/p/hpmzs\n一覧: https://fairtoreca.com
+URL:https://livepocket.jp/p/hpmzs
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT3H
+DESCRIPTION:抽選の締切が近いです
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pk-rakuten-1113-end@fairtoreca.com
+DTSTAMP:20261118T043655Z
+DTSTART:20261118T142900Z
+DTEND:20261118T145900Z
+SUMMARY:締切 楽天ブックス ハドウシーカー・スペシャルデッキセットMEGA・30th CELEBRATION BOX／カードセット・ストームエメラルダほか
+DESCRIPTION:楽天ブックス／ハドウシーカー・スペシャルデッキセットMEGA・30th CELEBRATION BOX／カードセット・ストームエメラルダほか\n応募: https://books.rakuten.co.jp/rb/18664603/\n一覧: https://fairtoreca.com
+URL:https://books.rakuten.co.jp/rb/18664603/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT3H
+DESCRIPTION:抽選の締切が近いです
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pk-oretan-hadou-end@fairtoreca.com
+DTSTAMP:20261118T043655Z
+DTSTART:20261122T142900Z
+DTEND:20261122T145900Z
+SUMMARY:締切 オレタン各店 拡張パック ハドウシーカー
+DESCRIPTION:オレタン各店／拡張パック ハドウシーカー\n応募: https://oretan.membercard.jp/lottery\n一覧: https://fairtoreca.com
+URL:https://oretan.membercard.jp/lottery
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT3H
+DESCRIPTION:抽選の締切が近いです
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pk-surugaya-hadou-end@fairtoreca.com
+DTSTAMP:20261118T043655Z
+DTSTART:20261122T142900Z
+DTEND:20261122T145900Z
+SUMMARY:締切 駿河屋 拡張パック ハドウシーカー
+DESCRIPTION:駿河屋／拡張パック ハドウシーカー\n応募: https://www.suruga-ya.jp/blog/?q=pokeka_chusen261105.html\n一覧: https://fairtoreca.com
+URL:https://www.suruga-ya.jp/blog/?q=pokeka_chusen261105.html
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT3H
+DESCRIPTION:抽選の締切が近いです
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pk-iy-30th-end@fairtoreca.com
+DTSTAMP:20261118T043655Z
+DTSTART:20261122T142900Z
+DTEND:20261122T145900Z
+SUMMARY:締切 イトーヨーカドー・アリオ（一部店舗） 30th CELEBRATION BOX
+DESCRIPTION:イトーヨーカドー・アリオ（一部店舗）／30th CELEBRATION BOX\n応募: 店頭・SNS\n一覧: https://fairtoreca.com
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT3H
+DESCRIPTION:抽選の締切が近いです
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:op-dorasuta-eb05-1117-end@fairtoreca.com
+DTSTAMP:20261118T043655Z
+DTSTART:20261119T142900Z
+DTEND:20261119T145900Z
+SUMMARY:締切 ドラゴンスター通販 エクストラブースター Heroines Edition vol.2【EB-05】
+DESCRIPTION:ドラゴンスター通販／エクストラブースター Heroines Edition vol.2【EB-05】\n応募: https://dorasuta.membercard.jp/lottery\n一覧: https://fairtoreca.com
+URL:https://dorasuta.membercard.jp/lottery
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT3H
+DESCRIPTION:抽選の締切が近いです
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:op-dmm-1117-end@fairtoreca.com
+DTSTAMP:20261118T043655Z
+DTSTART:20261124T053000Z
+DTEND:20261124T060000Z
+SUMMARY:締切 DMM通販 OP-13・OP-14・OP-15
+DESCRIPTION:DMM通販／OP-13・OP-14・OP-15\n応募: https://www.dmm.com/mono/hobby/-/list/=/article=keyword/id=308378/\n一覧: https://fairtoreca.com
+URL:https://www.dmm.com/mono/hobby/-/list/=/article=keyword/id=308378/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT3H
+DESCRIPTION:抽選の締切が近いです
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:op-shimamura-1117-end@fairtoreca.com
+DTSTAMP:20261118T043655Z
+DTSTART:20261122T133000Z
+DTEND:20261122T140000Z
+SUMMARY:締切 しまむらパーク OP-17・ブースターパック 神の支配【OP-18】
+DESCRIPTION:しまむらパーク／OP-17・ブースターパック 神の支配【OP-18】\n応募: https://www.shop-shimamura.com/item/0162100011161/?cl=211\n一覧: https://fairtoreca.com
+URL:https://www.shop-shimamura.com/item/0162100011161/?cl=211
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT3H
+DESCRIPTION:抽選の締切が近いです
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:op-yamada-1116-end@fairtoreca.com
+DTSTAMP:20261118T043655Z
+DTSTART:20261118T142900Z
+DTEND:20261118T145900Z
+SUMMARY:締切 ヤマダデンキ OP-13・OP-15・OP-16・OP-17
+DESCRIPTION:ヤマダデンキ／OP-13・OP-15・OP-16・OP-17\n応募: https://www.yamada-denki.jp/service/pointservice/digital-kaiin.html\n一覧: https://fairtoreca.com
+URL:https://www.yamada-denki.jp/service/pointservice/digital-kaiin.html
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT3H
+DESCRIPTION:抽選の締切が近いです
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:op-pb-op17-end@fairtoreca.com
+DTSTAMP:20261118T043655Z
+DTSTART:20261122T133000Z
+DTEND:20261122T140000Z
+SUMMARY:締切 プレミアムバンダイ OP-17
+DESCRIPTION:プレミアムバンダイ／OP-17\n応募: https://p-bandai.jp/item/item-1000261368/\n一覧: https://fairtoreca.com
+URL:https://p-bandai.jp/item/item-1000261368/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT3H
+DESCRIPTION:抽選の締切が近いです
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:op-gamearc-op18-end@fairtoreca.com
+DTSTAMP:20261118T043655Z
+DTSTART:20261118T142900Z
+DTEND:20261118T145900Z
+SUMMARY:締切 ゲームアーク・宝島各店 ブースターパック 神の支配【OP-18】
+DESCRIPTION:ゲームアーク・宝島各店／ブースターパック 神の支配【OP-18】\n応募: 店頭・SNS\n一覧: https://fairtoreca.com
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT3H
+DESCRIPTION:抽選の締切が近いです
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:op-rakuten-1113-end@fairtoreca.com
+DTSTAMP:20261118T043655Z
+DTSTART:20261118T142900Z
+DTEND:20261118T145900Z
+SUMMARY:締切 楽天ブックス ブースターパック 神の支配【OP-18】・EB-05・OP-17
+DESCRIPTION:楽天ブックス／ブースターパック 神の支配【OP-18】・EB-05・OP-17\n応募: https://books.rakuten.co.jp/rb/18812865/\n一覧: https://fairtoreca.com
+URL:https://books.rakuten.co.jp/rb/18812865/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT3H
+DESCRIPTION:抽選の締切が近いです
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:op-joshin-op18-end@fairtoreca.com
+DTSTAMP:20261118T043655Z
+DTSTART:20261120T103000Z
+DTEND:20261120T110000Z
+SUMMARY:締切 ジョーシン（店頭） ブースターパック 神の支配【OP-18】
+DESCRIPTION:ジョーシン（店頭）／ブースターパック 神の支配【OP-18】\n応募: https://shop.joshin.co.jp/app/\n一覧: https://fairtoreca.com
+URL:https://shop.joshin.co.jp/app/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT3H
+DESCRIPTION:抽選の締切が近いです
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:op-yamashiroya-1115-end@fairtoreca.com
+DTSTAMP:20261118T043655Z
+DTSTART:20261117T120000Z
+DTEND:20261117T123000Z
+SUMMARY:締切 ヤマシロヤ オンラインショップ EB-05・OP-13・OP-15・OP-17
+DESCRIPTION:ヤマシロヤ オンラインショップ／EB-05・OP-13・OP-15・OP-17\n応募: https://docs.google.com/forms/d/e/1FAIpQLScqMeN0flqWc55J0UJwlPP6XcJ3wXQFBz_S2_SEDDFrVyq3gg/viewform\n一覧: https://fairtoreca.com
+URL:https://docs.google.com/forms/d/e/1FAIpQLScqMeN0flqWc55J0UJwlPP6XcJ3wXQFBz_S2_SEDDFrVyq3gg/viewform
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT3H
+DESCRIPTION:抽選の締切が近いです
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:op-torepla55-op18-1113-end@fairtoreca.com
+DTSTAMP:20261118T043655Z
+DTSTART:20261116T142900Z
+DTEND:20261116T145900Z
+SUMMARY:締切 トレカプラザ55通販 ブースターパック 神の支配【OP-18】
+DESCRIPTION:トレカプラザ55通販／ブースターパック 神の支配【OP-18】\n応募: https://docs.google.com/forms/d/e/1FAIpQLScj9DowDcGc63TrEak69vfiVNInRpFB-Etaar230vEB1tra_g/viewform\n一覧: https://fairtoreca.com
+URL:https://docs.google.com/forms/d/e/1FAIpQLScj9DowDcGc63TrEak69vfiVNInRpFB-Etaar230vEB1tra_g/viewform
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT3H
+DESCRIPTION:抽選の締切が近いです
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:op-mugiwara-op18-end@fairtoreca.com
+DTSTAMP:20261118T043655Z
+DTSTART:20261115T142900Z
+DTEND:20261115T145900Z
+SUMMARY:締切 ONE PIECE 麦わらストア 各店 ブースターパック 神の支配【OP-18】
+DESCRIPTION:ONE PIECE 麦わらストア 各店／ブースターパック 神の支配【OP-18】\n応募: https://www.mugiwara-store.com/news/3061/\n一覧: https://fairtoreca.com
+URL:https://www.mugiwara-store.com/news/3061/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT3H
+DESCRIPTION:抽選の締切が近いです
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:op-animate-op18-end@fairtoreca.com
+DTSTAMP:20261118T043655Z
+DTSTART:20261115T142900Z
+DTEND:20261115T145900Z
+SUMMARY:締切 アニメイトオンライン ブースターパック 神の支配【OP-18】
+DESCRIPTION:アニメイトオンライン／ブースターパック 神の支配【OP-18】\n応募: https://www.animate-onlineshop.jp/products/detail.php?product_id=3592097\n一覧: https://fairtoreca.com
+URL:https://www.animate-onlineshop.jp/products/detail.php?product_id=3592097
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT3H
+DESCRIPTION:抽選の締切が近いです
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:op-hmv-op18-end@fairtoreca.com
+DTSTAMP:20261118T043655Z
+DTSTART:20261115T112900Z
+DTEND:20261115T115900Z
+SUMMARY:締切 HMVトレカショップ各店 ブースターパック 神の支配【OP-18】
+DESCRIPTION:HMVトレカショップ各店／ブースターパック 神の支配【OP-18】\n応募: https://livepocket.jp/e/sxw9x\n一覧: https://fairtoreca.com
+URL:https://livepocket.jp/e/sxw9x
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT3H
+DESCRIPTION:抽選の締切が近いです
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:db-aeon-rtg-end@fairtoreca.com
+DTSTAMP:20261118T043655Z
+DTSTART:20261118T142900Z
+DTEND:20261118T145900Z
+SUMMARY:締切 イオンスタイルオンライン フュージョンワールド REACH THE GOD
+DESCRIPTION:イオンスタイルオンライン／フュージョンワールド REACH THE GOD\n応募: https://aeonretail.com/Page/k-lottery_sale_03.aspx\n一覧: https://fairtoreca.com
+URL:https://aeonretail.com/Page/k-lottery_sale_03.aspx
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT3H
+DESCRIPTION:抽選の締切が近いです
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:db-champion-osu-1122-end@fairtoreca.com
+DTSTAMP:20261118T043655Z
+DTSTART:20261122T113000Z
+DTEND:20261122T120000Z
+SUMMARY:締切 トレカチャンピオン大須店 フュージョンワールド DUAL EVOLUTION・CROSS FORCE・STORY BOOSTER 01
+DESCRIPTION:トレカチャンピオン大須店／フュージョンワールド DUAL EVOLUTION・CROSS FORCE・STORY BOOSTER 01\n応募: https://x.com/Champion_osu/status/2121928555575787573\n一覧: https://fairtoreca.com
+URL:https://x.com/Champion_osu/status/2121928555575787573
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT3H
+DESCRIPTION:抽選の締切が近いです
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:db-aeonkyushu-rtg-end@fairtoreca.com
+DTSTAMP:20261118T043655Z
+DTSTART:20261122T142900Z
+DTEND:20261122T145900Z
+SUMMARY:締切 イオン九州（iAEONアプリ） フュージョンワールド REACH THE GOD
+DESCRIPTION:イオン九州（iAEONアプリ）／フュージョンワールド REACH THE GOD\n応募: https://www.aeon-kyushu.info/customer/information/archives/147\n一覧: https://fairtoreca.com
+URL:https://www.aeon-kyushu.info/customer/information/archives/147
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT3H
+DESCRIPTION:抽選の締切が近いです
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:db-dmm-dual-end@fairtoreca.com
+DTSTAMP:20261118T043655Z
+DTSTART:20261124T053000Z
+DTEND:20261124T060000Z
+SUMMARY:締切 DMM通販 フュージョンワールド DUAL EVOLUTION
+DESCRIPTION:DMM通販／フュージョンワールド DUAL EVOLUTION\n応募: https://www.dmm.com/mono/hobby/-/detail/=/cid=c260803458_lo2608/\n一覧: https://fairtoreca.com
+URL:https://www.dmm.com/mono/hobby/-/detail/=/cid=c260803458_lo2608/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT3H
+DESCRIPTION:抽選の締切が近いです
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:db-tsutaya-shirakawa-rtg-end@fairtoreca.com
+DTSTAMP:20261118T043655Z
+DTSTART:20261206T113000Z
+DTEND:20261206T120000Z
+SUMMARY:締切 TSUTAYA白河店（みどり書房白河店） フュージョンワールド REACH THE GOD
+DESCRIPTION:TSUTAYA白河店（みどり書房白河店）／フュージョンワールド REACH THE GOD\n応募: https://x.com/Midori_SiraKawa/status/2119322523443818945\n一覧: https://fairtoreca.com
+URL:https://x.com/Midori_SiraKawa/status/2119322523443818945
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT3H
