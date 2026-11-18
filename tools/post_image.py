@@ -9,7 +9,9 @@ from datetime import datetime, timedelta, timezone
 
 JST = timezone(timedelta(hours=9))
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-CHROME = "/opt/pw-browsers/chromium-1194/chrome-linux/chrome"
+CHROME = next((c for c in [os.environ.get("CHROME", ""), "/opt/pw-browsers/chromium",
+               "/opt/pw-browsers/chromium-1194/chrome-linux/chrome"] if c and os.path.isfile(c)),
+              "/opt/pw-browsers/chromium")
 WD = "月火水木金土日"
 GAME = {"pokemon": ("ポケカ", "#ffd23f"), "onepiece": ("ワンピカ", "#ff6672"), "dragonball": ("DB", "#ff9447")}
 METHOD = {"online": "ネット", "app": "アプリ", "store": "店頭", "sns": "SNS", "invite": "招待", "order": "受注"}
