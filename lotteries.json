@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-19T08:53:00+09:00",
+ "updatedAt": "2026-11-20T08:55:00+09:00",
  "sources": "入荷Now・カード抽選.com・トレカ抽選情報・各ショップ公式",
  "lotteries": [
   {
@@ -742,7 +742,8 @@
    "url": "https://joshinweb.jp/",
    "note": "対象会員へメールで応募URLを案内・締切は公式で確認",
    "source": "https://nyuka-now.com/archives/2459",
-   "addedAt": "2026-11-19T08:53:00+09:00"
+   "addedAt": "2026-11-19T08:53:00+09:00",
+   "result": "ハドウシーカー 11/27・12/4、その他 11/24・12/1 の午後以降"
   },
   {
    "id": "pk-7net-30th-premium",
@@ -751,10 +752,12 @@
    "shop": "セブンネットショッピング",
    "method": "online",
    "start": "2026-11-19T17:00:00+09:00",
-   "url": "https://x.com/7_netshopping/status/2122570434755633464",
-   "note": "11/19 17時頃開始予定・締切は公式で確認",
+   "url": "https://7net.omni7.jp/detail/2190054905.html",
+   "note": "Web抽選",
    "source": "https://nyuka-now.com/archives/2459",
-   "addedAt": "2026-11-19T08:53:00+09:00"
+   "addedAt": "2026-11-19T08:53:00+09:00",
+   "end": "2026-11-23T23:59:00+09:00",
+   "result": "12/8 19時までに当選者のみメール"
   },
   {
    "id": "op-amazon-eb06",
@@ -763,7 +766,7 @@
    "shop": "Amazon（招待リクエスト）",
    "method": "invite",
    "start": "2026-11-12T19:40:00+09:00",
-   "url": "https://www.amazon.co.jp/s?k=EB-06+ONE+PIECE",
+   "url": "https://www.amazon.co.jp/dp/B0HMZ9WLVZ",
    "note": "商品ページの「招待をリクエスト」から。締切は非公表",
    "source": "https://nyuka-now.com/archives/97393",
    "addedAt": "2026-11-19T08:53:00+09:00"
@@ -775,10 +778,66 @@
    "shop": "Amazon（招待リクエスト）",
    "method": "invite",
    "start": "2026-11-14T08:40:00+09:00",
-   "url": "https://www.amazon.co.jp/s?k=ST-37+ONE+PIECE",
-   "note": "商品ページの「招待をリクエスト」から。締切は非公表",
+   "url": "https://www.amazon.co.jp/dp/B0HN6SF9V1",
+   "note": "商品ページの「招待をリクエスト」から。ST-38は https://www.amazon.co.jp/dp/B0HN6Q2STG 。締切は非公表",
    "source": "https://nyuka-now.com/archives/97393",
    "addedAt": "2026-11-19T08:53:00+09:00"
+  },
+  {
+   "id": "pk-pokecen-hadou",
+   "game": "pokemon",
+   "product": "拡張パック ハドウシーカー",
+   "shop": "ポケモンセンター各店",
+   "method": "app",
+   "start": "2026-11-19T14:00:00+09:00",
+   "end": "2026-11-23T23:59:00+09:00",
+   "url": "https://shop.pokemon.co.jp/ja/shop/pokemoncenter-megatokyo/news/202611/000709.html",
+   "note": "LINEミニアプリで応募（受取の時間枠を選ぶ）",
+   "result": "11/25 12時以降、当選者のみLINEで通知",
+   "source": "https://nyuka-now.com/archives/2459",
+   "addedAt": "2026-11-20T08:55:00+09:00"
+  },
+  {
+   "id": "pk-otakara-hadou",
+   "game": "pokemon",
+   "product": "拡張パック ハドウシーカー",
+   "shop": "お宝創庫グループ（一部店舗）",
+   "method": "app",
+   "start": "2026-11-19T12:00:00+09:00",
+   "end": "2026-11-22T23:45:00+09:00",
+   "url": "https://www.otakarasouko.com/information/109459977/",
+   "note": "アプリ会員限定（お宝創庫・おじゃま館・メディオ！・プレイズ）",
+   "result": "11/25頃",
+   "source": "https://nyuka-now.com/archives/2459",
+   "addedAt": "2026-11-20T08:55:00+09:00"
+  },
+  {
+   "id": "pk-gangi-vstar",
+   "game": "pokemon",
+   "product": "ハイクラスパック VSTARユニバース",
+   "shop": "ガンギHOBBYSHOP",
+   "method": "online",
+   "start": "2026-11-19T13:29:00+09:00",
+   "end": "2026-11-25T23:59:00+09:00",
+   "url": "https://www.gangi.co.jp/blog/drawsale-720",
+   "note": "会員限定のWeb抽選フォーム",
+   "result": "締切後、当選者のみメール",
+   "source": "https://nyuka-now.com/archives/2459",
+   "addedAt": "2026-11-20T08:55:00+09:00"
+  },
+  {
+   "id": "op-mugiwara-op17",
+   "game": "onepiece",
+   "product": "ブースターパック 世界最強の戦士【OP-17】（再入荷）",
+   "shop": "ONE PIECE 麦わらストア 各店",
+   "method": "online",
+   "start": "2026-11-20T00:00:00+09:00",
+   "end": "2026-11-22T23:59:00+09:00",
+   "url": "https://www.mugiwara-store.com/news/3131/",
+   "note": "LivePocket（店舗ごとに申込ページ）",
+   "result": "11/23〜11/26予定",
+   "source": "https://nyuka-now.com/archives/97393",
+   "addedAt": "2026-11-20T08:55:00+09:00"
   }
  ]
 }
