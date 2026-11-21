@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-21T08:57:00+09:00",
+ "updatedAt": "2026-11-22T08:56:00+09:00",
  "sources": "入荷Now・カード抽選.com・トレカ抽選情報・各ショップ公式",
  "lotteries": [
   {
@@ -1051,6 +1051,34 @@
    "note": "X告知・店頭受取・会員・本人確認",
    "source": "https://www.cardchusen.com/dragonball",
    "addedAt": "2026-11-21T08:57:00+09:00"
+  },
+  {
+   "id": "pk-seagull-hadou",
+   "game": "pokemon",
+   "product": "拡張パック ハドウシーカー",
+   "shop": "シーガル各店",
+   "method": "app",
+   "start": "2026-11-21T12:30:00+09:00",
+   "end": "2026-11-23T20:00:00+09:00",
+   "url": "https://seagullonline.jp/gullmoba/",
+   "note": "シーガルモバイル会員限定",
+   "result": "11/25 20時まで",
+   "source": "https://nyuka-now.com/archives/2459",
+   "addedAt": "2026-11-22T08:56:00+09:00"
+  },
+  {
+   "id": "pk-kiddyland-fujimi",
+   "game": "pokemon",
+   "product": "30th CELEBRATION BOX・ストームエメラルダ",
+   "shop": "キデイランド ららぽーと富士見店",
+   "method": "online",
+   "start": "2026-11-21T10:00:00+09:00",
+   "end": "2026-11-23T23:59:00+09:00",
+   "url": "https://livepocket.jp/p/hpmzs",
+   "note": "LivePocketでWeb抽選",
+   "result": "11/27 18時頃までに",
+   "source": "https://nyuka-now.com/archives/2459",
+   "addedAt": "2026-11-22T08:56:00+09:00"
   }
  ]
 }
