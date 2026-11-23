@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-23T08:56:00+09:00",
+ "updatedAt": "2026-11-24T08:55:00+09:00",
  "sources": "入荷Now・カード抽選.com・トレカ抽選情報・各ショップ公式",
  "lotteries": [
   {
@@ -564,20 +564,6 @@
    "url": "https://docs.google.com/forms/d/e/1FAIpQLScqMeN0flqWc55J0UJwlPP6XcJ3wXQFBz_S2_SEDDFrVyq3gg/viewform"
   },
   {
-   "id": "op-torepla55-op18-1113",
-   "addedAt": "2026-11-18T14:00:00+09:00",
-   "game": "onepiece",
-   "product": "ブースターパック 神の支配【OP-18】",
-   "shop": "トレカプラザ55通販",
-   "method": "online",
-   "note": "Googleフォームで応募",
-   "source": "https://nyuka-now.com/archives/97393",
-   "start": "2026-11-13T20:00:00+09:00",
-   "end": "2026-11-16T23:59:00+09:00",
-   "result": "11/17〜11/18 メール",
-   "url": "https://docs.google.com/forms/d/e/1FAIpQLScj9DowDcGc63TrEak69vfiVNInRpFB-Etaar230vEB1tra_g/viewform"
-  },
-  {
    "id": "db-aeon-rtg",
    "addedAt": "2026-11-18T14:00:00+09:00",
    "game": "dragonball",
@@ -1019,7 +1005,7 @@
    "method": "store",
    "start": "2026-11-23T10:00:00+09:00",
    "end": "2026-11-24T20:00:00+09:00",
-   "note": "店頭抽選・ラゾーナ川崎は10:00、ほか3店は13:00から",
+   "note": "店頭レジで受付・ビックカメラSuica会員限定・ラゾーナ川崎は10:00、ほか3店は13:00から",
    "source": "https://nyuka-now.com/archives/2459",
    "addedAt": "2026-11-23T08:56:00+09:00"
   },
@@ -1054,10 +1040,10 @@
    "game": "dragonball",
    "product": "フュージョンワールド REACH THE GOD",
    "shop": "イエローサブマリン各店",
-   "method": "store",
+   "method": "online",
    "end": "2026-11-26T20:00:00+09:00",
-   "url": "https://x.com/YS_INFO/status/2124295321161548058",
-   "note": "X告知・店頭受取・会員・本人確認",
+   "url": "https://livepocket.jp/e/e_buh",
+   "note": "LivePocketでWeb抽選・会員・本人確認",
    "source": "https://www.cardchusen.com/dragonball",
    "addedAt": "2026-11-23T08:56:00+09:00"
   },
@@ -1156,6 +1142,80 @@
    "note": "LivePocketでWeb抽選",
    "source": "https://www.cardchusen.com/dragonball",
    "addedAt": "2026-11-23T08:56:00+09:00"
+  },
+  {
+   "id": "pk-yamada-30th",
+   "game": "pokemon",
+   "product": "30th CELEBRATION カードセット各種（9種・再販）",
+   "shop": "ヤマダデンキ",
+   "method": "app",
+   "start": "2026-11-23T23:00:00+09:00",
+   "end": "2026-11-25T23:59:00+09:00",
+   "url": "https://www.yamada-denki.jp/service/pointservice/digital-kaiin.html",
+   "note": "ヤマダデジタル会員アプリから応募",
+   "source": "https://nyuka-now.com/archives/2459",
+   "addedAt": "2026-11-24T08:55:00+09:00"
+  },
+  {
+   "id": "pk-torepla55-30th",
+   "game": "pokemon",
+   "product": "30th CELEBRATION カードセット各種・スターターセットex 3種",
+   "shop": "トレカプラザ55通販",
+   "method": "online",
+   "start": "2026-11-23T20:00:00+09:00",
+   "end": "2026-11-30T23:59:00+09:00",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSfMYEQnQHZIXlZXRSR5pLb7glqN5fz9uBp-pVcEjKiMC4VfHg/viewform",
+   "note": "Googleフォームで応募",
+   "source": "https://nyuka-now.com/archives/2459",
+   "addedAt": "2026-11-24T08:55:00+09:00"
+  },
+  {
+   "id": "pk-torekaste-30th",
+   "game": "pokemon",
+   "product": "30th CELEBRATION カード9種セット（再入荷）",
+   "shop": "トレカステーション各店（一部店舗）",
+   "method": "store",
+   "start": "2026-11-23T10:00:00+09:00",
+   "end": "2026-11-29T23:59:00+09:00",
+   "note": "店頭掲示のQRからLivePocketで応募",
+   "source": "https://nyuka-now.com/archives/2459",
+   "addedAt": "2026-11-24T08:55:00+09:00"
+  },
+  {
+   "id": "op-torekaste-op17",
+   "game": "onepiece",
+   "product": "ブースターパック 世界最強の戦士【OP-17】（再入荷）",
+   "shop": "トレカステーション各店（一部店舗）",
+   "method": "store",
+   "start": "2026-11-23T18:00:00+09:00",
+   "end": "2026-11-29T23:59:00+09:00",
+   "note": "店頭掲示のQRからLivePocketで応募・1BOX分",
+   "source": "https://nyuka-now.com/archives/97393",
+   "addedAt": "2026-11-24T08:55:00+09:00"
+  },
+  {
+   "id": "db-tsutaya-fujihachiman-rtg",
+   "game": "dragonball",
+   "product": "フュージョンワールド REACH THE GOD",
+   "shop": "TSUTAYA富士八幡町店",
+   "method": "online",
+   "end": "2026-11-24T22:00:00+09:00",
+   "url": "https://livepocket.jp/e/j_lwh",
+   "note": "LivePocketでWeb抽選",
+   "source": "https://www.cardchusen.com/dragonball",
+   "addedAt": "2026-11-24T08:55:00+09:00"
+  },
+  {
+   "id": "db-toreca-ace-katsuta-rtg",
+   "game": "dragonball",
+   "product": "フュージョンワールド REACH THE GOD",
+   "shop": "トレカエース 勝田東石川店",
+   "method": "online",
+   "end": "2026-11-29T22:00:00+09:00",
+   "url": "https://livepocket.jp/e/rb9ur",
+   "note": "LivePocketでWeb抽選",
+   "source": "https://www.cardchusen.com/dragonball",
+   "addedAt": "2026-11-24T08:55:00+09:00"
   }
  ]
 }
