@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-25T08:55:00+09:00",
+ "updatedAt": "2026-11-26T08:55:00+09:00",
  "sources": "入荷Now・カード抽選.com・トレカ抽選情報・各ショップ公式",
  "lotteries": [
   {
@@ -247,20 +247,6 @@
    "url": "https://lifetunes-mall.jp/shop/form/form.aspx?questionnaire=c3060_pokemoncard100_lot"
   },
   {
-   "id": "pk-dorasuta-hadou-1116",
-   "addedAt": "2026-11-18T14:00:00+09:00",
-   "game": "pokemon",
-   "product": "拡張パック ハドウシーカー",
-   "shop": "ドラゴンスター通販",
-   "method": "online",
-   "note": "Web抽選（会員）",
-   "source": "https://nyuka-now.com/archives/2459",
-   "start": "2026-11-16T22:00:00+09:00",
-   "end": "2026-11-18T23:59:00+09:00",
-   "result": "11/19予定",
-   "url": "https://dorasuta.membercard.jp/lottery"
-  },
-  {
    "id": "pk-torekaste-hadou",
    "addedAt": "2026-11-18T14:00:00+09:00",
    "game": "pokemon",
@@ -301,19 +287,6 @@
    "result": "11/25（当選者のみDM）"
   },
   {
-   "id": "pk-bigextra-hadou",
-   "addedAt": "2026-11-18T14:00:00+09:00",
-   "game": "pokemon",
-   "product": "拡張パック ハドウシーカー",
-   "shop": "ザ・ビッグエクストラ（一部店舗）",
-   "method": "app",
-   "note": "iAEONアプリで応募",
-   "source": "https://nyuka-now.com/archives/2459",
-   "start": "2026-11-16T00:00:00+09:00",
-   "end": "2026-11-18T23:59:00+09:00",
-   "result": "11/26 12:00頃"
-  },
-  {
    "id": "pk-ryunoshippo-hadou",
    "addedAt": "2026-11-18T14:00:00+09:00",
    "game": "pokemon",
@@ -326,20 +299,6 @@
    "end": "2026-11-20T23:59:00+09:00",
    "result": "11/25 17〜18時頃",
    "url": "https://ryuunoshippo.membercard.jp/"
-  },
-  {
-   "id": "pk-yellowsub-30th",
-   "addedAt": "2026-11-18T14:00:00+09:00",
-   "game": "pokemon",
-   "product": "30th CELEBRATION カードセット・ストームエメラルダ",
-   "shop": "イエローサブマリン各店",
-   "method": "store",
-   "note": "店頭QRからLivePocketで応募",
-   "source": "https://nyuka-now.com/archives/2459",
-   "start": "2026-11-15T10:00:00+09:00",
-   "end": "2026-11-18T20:00:00+09:00",
-   "result": "11/22予定",
-   "url": "https://x.com/YS_INFO/"
   },
   {
    "id": "pk-kojima-hadou",
@@ -368,34 +327,6 @@
    "end": "2026-11-19T23:59:00+09:00",
    "result": "当選者のみメール",
    "url": "https://docs.google.com/forms/d/e/1FAIpQLScyVCz7XSzFQ8L4EWUXfMzbnjYKd2P3TCOXoAjrp3Wy0Md2ag/viewform"
-  },
-  {
-   "id": "pk-kiddyland-hadou",
-   "addedAt": "2026-11-18T14:00:00+09:00",
-   "game": "pokemon",
-   "product": "拡張パック ハドウシーカー",
-   "shop": "キデイランド各店",
-   "method": "online",
-   "note": "LivePocketでWeb抽選（光が丘・ピオレ姫路・清水店は11/13から）",
-   "source": "https://nyuka-now.com/archives/2459",
-   "start": "2026-11-16T10:00:00+09:00",
-   "end": "2026-11-18T23:59:00+09:00",
-   "result": "11/25 18時頃まで",
-   "url": "https://livepocket.jp/p/hpmzs"
-  },
-  {
-   "id": "pk-rakuten-1113",
-   "addedAt": "2026-11-18T14:00:00+09:00",
-   "game": "pokemon",
-   "product": "ハドウシーカー・スペシャルデッキセットMEGA・30th CELEBRATION BOX／カードセット・ストームエメラルダほか",
-   "shop": "楽天ブックス",
-   "method": "online",
-   "note": "商品ごとに応募ページあり（リンクはハドウシーカー）",
-   "source": "https://nyuka-now.com/archives/2459",
-   "start": "2026-11-13T10:00:00+09:00",
-   "end": "2026-11-18T23:59:00+09:00",
-   "result": "販売開始日までにメール",
-   "url": "https://books.rakuten.co.jp/rb/18664603/"
   },
   {
    "id": "pk-oretan-hadou",
@@ -481,20 +412,6 @@
    "url": "https://www.shop-shimamura.com/item/0162100011161/?cl=211"
   },
   {
-   "id": "op-yamada-1116",
-   "addedAt": "2026-11-18T14:00:00+09:00",
-   "game": "onepiece",
-   "product": "OP-13・OP-15・OP-16・OP-17",
-   "shop": "ヤマダデンキ",
-   "method": "app",
-   "note": "アプリ抽選・店頭販売",
-   "source": "https://nyuka-now.com/archives/97393",
-   "start": "2026-11-16T23:00:00+09:00",
-   "end": "2026-11-18T23:59:00+09:00",
-   "result": "12/2 12:00頃",
-   "url": "https://www.yamada-denki.jp/service/pointservice/digital-kaiin.html"
-  },
-  {
    "id": "op-pb-op17",
    "addedAt": "2026-11-18T14:00:00+09:00",
    "game": "onepiece",
@@ -509,33 +426,6 @@
    "url": "https://p-bandai.jp/item/item-1000261368/"
   },
   {
-   "id": "op-gamearc-op18",
-   "addedAt": "2026-11-18T14:00:00+09:00",
-   "game": "onepiece",
-   "product": "ブースターパック 神の支配【OP-18】",
-   "shop": "ゲームアーク・宝島各店",
-   "method": "online",
-   "note": "モバイル会員ページでWeb抽選・店頭販売",
-   "source": "https://nyuka-now.com/archives/97393",
-   "start": "2026-11-14T10:00:00+09:00",
-   "end": "2026-11-18T23:59:00+09:00",
-   "result": "11/19"
-  },
-  {
-   "id": "op-rakuten-1113",
-   "addedAt": "2026-11-18T14:00:00+09:00",
-   "game": "onepiece",
-   "product": "ブースターパック 神の支配【OP-18】・EB-05・OP-17",
-   "shop": "楽天ブックス",
-   "method": "online",
-   "note": "商品ごとに応募ページあり（リンクはOP-18）",
-   "source": "https://nyuka-now.com/archives/97393",
-   "start": "2026-11-13T10:00:00+09:00",
-   "end": "2026-11-18T23:59:00+09:00",
-   "result": "販売開始日までにメール",
-   "url": "https://books.rakuten.co.jp/rb/18812865/"
-  },
-  {
    "id": "op-joshin-op18",
    "addedAt": "2026-11-18T14:00:00+09:00",
    "game": "onepiece",
@@ -548,18 +438,6 @@
    "end": "2026-11-20T20:00:00+09:00",
    "result": "11/21",
    "url": "https://shop.joshin.co.jp/app/"
-  },
-  {
-   "id": "db-aeon-rtg",
-   "addedAt": "2026-11-18T14:00:00+09:00",
-   "game": "dragonball",
-   "product": "フュージョンワールド REACH THE GOD",
-   "shop": "イオンスタイルオンライン",
-   "method": "online",
-   "note": "オンライン抽選（会員）",
-   "source": "https://www.cardchusen.com/dragonball",
-   "end": "2026-11-18T23:59:00+09:00",
-   "url": "https://aeonretail.com/Page/k-lottery_sale_03.aspx"
   },
   {
    "id": "db-champion-osu-1122",
@@ -1265,6 +1143,130 @@
    "note": "LivePocketでWeb抽選・会員・本人確認",
    "source": "https://www.cardchusen.com/dragonball",
    "addedAt": "2026-11-25T08:55:00+09:00"
+  },
+  {
+   "id": "pk-dorasuta-storm",
+   "game": "pokemon",
+   "product": "ストームエメラルダ",
+   "shop": "ドラゴンスター通販",
+   "method": "online",
+   "start": "2026-11-25T22:00:00+09:00",
+   "end": "2026-11-27T23:59:00+09:00",
+   "note": "会員Web抽選・当選発表11/29予定",
+   "source": "https://nyuka-now.com/archives/2459",
+   "url": "https://dorasuta.membercard.jp/lottery",
+   "addedAt": "2026-11-26T08:55:00+09:00"
+  },
+  {
+   "id": "pk-oretan-hadou-1125",
+   "game": "pokemon",
+   "product": "拡張パック ハドウシーカー（再販）",
+   "shop": "オレタン各店",
+   "method": "online",
+   "start": "2026-11-25T21:00:00+09:00",
+   "end": "2026-11-29T23:59:00+09:00",
+   "note": "会員Web抽選・店頭受取・店舗会員証が必要",
+   "source": "https://nyuka-now.com/archives/2459",
+   "url": "https://oretan.membercard.jp/lottery",
+   "addedAt": "2026-11-26T08:55:00+09:00"
+  },
+  {
+   "id": "pk-loppi-30th-premium",
+   "game": "pokemon",
+   "product": "30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキー",
+   "shop": "Loppi・ローソン",
+   "method": "online",
+   "start": "2026-11-25T10:00:00+09:00",
+   "end": "2026-11-29T23:30:00+09:00",
+   "note": "Web抽選・Loppi店頭受取・ローソンWEB会員",
+   "source": "https://nyuka-now.com/archives/2459",
+   "url": "https://img.hmv.co.jp/cont/online/pkloppicard_lp/",
+   "addedAt": "2026-11-26T08:55:00+09:00"
+  },
+  {
+   "id": "pk-edion-fukubukuro",
+   "game": "pokemon",
+   "product": "ポケモンカード福袋 スペシャルセット1・2",
+   "shop": "エディオンネットショップ",
+   "method": "online",
+   "start": "2026-11-25T10:00:00+09:00",
+   "end": "2026-12-20T23:59:00+09:00",
+   "note": "会員・購入履歴条件あり・SMS認証",
+   "source": "https://nyuka-now.com/archives/2459",
+   "url": "https://edion-cp.com/edionnet01031",
+   "addedAt": "2026-11-26T08:55:00+09:00"
+  },
+  {
+   "id": "db-tsutaya-neyagawa-rtg",
+   "game": "dragonball",
+   "product": "フュージョンワールド REACH THE GOD",
+   "shop": "TSUTAYA BOOKSTORE ビバモール寝屋川",
+   "method": "store",
+   "end": "2026-11-27T20:00:00+09:00",
+   "url": "https://x.com/TCGVMtsutaya/status/2125128597044347105",
+   "note": "X告知・店頭受取・会員・本人確認",
+   "source": "https://www.cardchusen.com/dragonball",
+   "addedAt": "2026-11-26T08:55:00+09:00"
+  },
+  {
+   "id": "db-tsutaya-akebono-rtg",
+   "game": "dragonball",
+   "product": "フュージョンワールド REACH THE GOD",
+   "shop": "ヤマト屋書店TSUTAYAあけぼの店",
+   "method": "store",
+   "end": "2026-11-28T23:59:00+09:00",
+   "url": "https://livepocket.jp/e/ozq6v",
+   "note": "LivePocketで応募・店頭受取・会員・本人確認",
+   "source": "https://www.cardchusen.com/dragonball",
+   "addedAt": "2026-11-26T08:55:00+09:00"
+  },
+  {
+   "id": "db-tsutaya-yame-sb01",
+   "game": "dragonball",
+   "product": "フュージョンワールド STORY BOOSTER 01",
+   "shop": "TSUTAYA積文館書店八女店",
+   "method": "online",
+   "end": "2026-11-29T20:00:00+09:00",
+   "url": "https://x.com/yame_TCG/status/2125379362442867080",
+   "note": "X告知・会員・本人確認",
+   "source": "https://www.cardchusen.com/dragonball",
+   "addedAt": "2026-11-26T08:55:00+09:00"
+  },
+  {
+   "id": "db-kusamura-kakamigahara-1",
+   "game": "dragonball",
+   "product": "フュージョンワールド REACH THE GOD",
+   "shop": "草叢BOOKS各務原店",
+   "method": "online",
+   "end": "2026-11-29T21:00:00+09:00",
+   "url": "https://livepocket.jp/e/jtkqi",
+   "note": "LivePocketでWeb抽選・会員・本人確認",
+   "source": "https://www.cardchusen.com/dragonball",
+   "addedAt": "2026-11-26T08:55:00+09:00"
+  },
+  {
+   "id": "db-kusamura-kakamigahara-2",
+   "game": "dragonball",
+   "product": "フュージョンワールド REACH THE GOD",
+   "shop": "草叢BOOKS各務原店（2件目）",
+   "method": "online",
+   "end": "2026-11-29T21:00:00+09:00",
+   "url": "https://livepocket.jp/e/j2jub",
+   "note": "LivePocketでWeb抽選・会員・本人確認",
+   "source": "https://www.cardchusen.com/dragonball",
+   "addedAt": "2026-11-26T08:55:00+09:00"
+  },
+  {
+   "id": "db-oretan-rtg",
+   "game": "dragonball",
+   "product": "フュージョンワールド REACH THE GOD",
+   "shop": "オレタン 岡山本店・松山店・福岡天神店",
+   "method": "online",
+   "end": "2026-12-06T23:59:00+09:00",
+   "url": "https://oretan.membercard.jp/lottery",
+   "note": "会員Web抽選・店舗ごとに応募",
+   "source": "https://www.cardchusen.com/dragonball",
+   "addedAt": "2026-11-26T08:55:00+09:00"
   }
  ]
 }
