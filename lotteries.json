@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-27T08:57:00+09:00",
+ "updatedAt": "2026-11-28T08:55:00+09:00",
  "sources": "入荷Now・カード抽選.com・トレカ抽選情報・各ショップ公式",
  "lotteries": [
   {
@@ -259,34 +259,6 @@
    "result": "11/25（当選者のみDM）"
   },
   {
-   "id": "pk-ryunoshippo-hadou",
-   "addedAt": "2026-11-18T14:00:00+09:00",
-   "game": "pokemon",
-   "product": "ハドウシーカー・30th CELEBRATION カードセット",
-   "shop": "竜のしっぽ各店",
-   "method": "online",
-   "note": "Web抽選（会員）",
-   "source": "https://nyuka-now.com/archives/2459",
-   "start": "2026-11-15T22:00:00+09:00",
-   "end": "2026-11-20T23:59:00+09:00",
-   "result": "11/25 17〜18時頃",
-   "url": "https://ryuunoshippo.membercard.jp/"
-  },
-  {
-   "id": "pk-kojima-hadou",
-   "addedAt": "2026-11-18T14:00:00+09:00",
-   "game": "pokemon",
-   "product": "拡張パック ハドウシーカー",
-   "shop": "コジマ（アプリ）",
-   "method": "app",
-   "note": "コジマアプリで応募",
-   "source": "https://nyuka-now.com/archives/2459",
-   "start": "2026-11-13T21:00:00+09:00",
-   "end": "2026-11-20T23:59:00+09:00",
-   "result": "11/27 0:00",
-   "url": "https://www.kojima.net/shop/app/kojima_appli.html"
-  },
-  {
    "id": "pk-oretan-hadou",
    "addedAt": "2026-11-18T14:00:00+09:00",
    "game": "pokemon",
@@ -368,20 +340,6 @@
    "end": "2026-11-22T23:00:00+09:00",
    "result": "11月下旬",
    "url": "https://p-bandai.jp/item/item-1000261368/"
-  },
-  {
-   "id": "op-joshin-op18",
-   "addedAt": "2026-11-18T14:00:00+09:00",
-   "game": "onepiece",
-   "product": "ブースターパック 神の支配【OP-18】",
-   "shop": "ジョーシン（店頭）",
-   "method": "store",
-   "note": "店頭抽選（アプリのクーポンが必要）。締切は閉店まで",
-   "source": "https://nyuka-now.com/archives/97393",
-   "start": "2026-11-18T10:00:00+09:00",
-   "end": "2026-11-20T20:00:00+09:00",
-   "result": "11/21",
-   "url": "https://shop.joshin.co.jp/app/"
   },
   {
    "id": "db-champion-osu-1122",
@@ -1300,6 +1258,79 @@
    "note": "会員Web抽選",
    "source": "https://www.cardchusen.com/dragonball",
    "addedAt": "2026-11-27T08:57:00+09:00"
+  },
+  {
+   "id": "pk-pokecen-30th-box",
+   "game": "pokemon",
+   "product": "30th CELEBRATION BOX・プレミアムデッキセット エーフィ・ブラッキー・30th CELEBRATION FUTURISTIC BOX",
+   "shop": "ポケモンセンターオンライン",
+   "method": "online",
+   "start": "2026-12-01T14:00:00+09:00",
+   "end": "2026-12-07T16:59:00+09:00",
+   "url": "https://www.pokemoncenter-online.com/news/?id=20261127",
+   "note": "本人確認済み枠か未確認枠のどちらか1つに応募（枠の多くは本人確認済み）",
+   "source": "https://nyuka-now.com/archives/2459",
+   "addedAt": "2026-11-28T08:55:00+09:00"
+  },
+  {
+   "id": "pk-kiddyland-urawamisono",
+   "game": "pokemon",
+   "product": "ハドウシーカー・ストームエメラルダ",
+   "shop": "キデイランド 浦和美園店",
+   "method": "online",
+   "start": "2026-11-27T10:00:00+09:00",
+   "end": "2026-11-29T23:59:00+09:00",
+   "url": "https://livepocket.jp/e/gfal2",
+   "note": "LivePocketでWeb抽選（商品ごとに別ページ）・店頭受取 12/4〜12/6",
+   "source": "https://nyuka-now.com/archives/2459",
+   "addedAt": "2026-11-28T08:55:00+09:00"
+  },
+  {
+   "id": "pk-pokelounge-shibuya-30th",
+   "game": "pokemon",
+   "product": "30th CELEBRATION BOX",
+   "shop": "ポケモンカードラウンジ渋谷店",
+   "method": "online",
+   "start": "2026-11-27T10:00:00+09:00",
+   "end": "2026-11-29T23:59:00+09:00",
+   "note": "SHIBUYA TSUTAYA CLOUD PASSから応募・店頭受取 12/15〜12/20",
+   "source": "https://nyuka-now.com/archives/2459",
+   "addedAt": "2026-11-28T08:55:00+09:00"
+  },
+  {
+   "id": "pk-dmm-myca-hadou",
+   "game": "pokemon",
+   "product": "拡張パック ハドウシーカー",
+   "shop": "DMMマイカ",
+   "method": "online",
+   "start": "2026-11-27T00:00:00+09:00",
+   "end": "2026-12-03T23:59:00+09:00",
+   "url": "https://myca.dmm.com/campaign/k29-4t-8r",
+   "note": "10/27〜11/26のDMMマイカ購入5,000円ごとに1口・購入期限12/14",
+   "source": "https://nyuka-now.com/archives/2459",
+   "addedAt": "2026-11-28T08:55:00+09:00"
+  },
+  {
+   "id": "db-tsutaya-minakuchi-rtg",
+   "game": "dragonball",
+   "product": "フュージョンワールド REACH THE GOD",
+   "shop": "TSUTAYA BOOKSTORE 水口",
+   "method": "store",
+   "end": "2026-11-29T21:00:00+09:00",
+   "note": "X告知・店頭応募",
+   "source": "https://www.cardchusen.com/dragonball",
+   "addedAt": "2026-11-28T08:55:00+09:00"
+  },
+  {
+   "id": "db-tsutaya-minakuchi-de",
+   "game": "dragonball",
+   "product": "フュージョンワールド DUAL EVOLUTION",
+   "shop": "TSUTAYA BOOKSTORE 水口",
+   "method": "store",
+   "end": "2026-11-29T21:00:00+09:00",
+   "note": "X告知・店頭応募",
+   "source": "https://www.cardchusen.com/dragonball",
+   "addedAt": "2026-11-28T08:55:00+09:00"
   }
  ]
 }
